@@ -1,1 +1,2 @@
 # NLP
+The goal of this project is to create a multifunctional tool that allows users to select and utilize different pretrained models from Hugging Face for various tasks. The tool will support text summarization, next word prediction, story prediction, chatbot, sentiment analysis, question answering, and image generation. The front end will provide a user-friendly interface to select the task and input the required text or image for processing
